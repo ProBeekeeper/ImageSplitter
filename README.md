@@ -45,4 +45,4 @@ Click **"Start Splitting"** to initiate the slicing pipeline:
 
 ## Acknowledgments
 
-* **Inspiration**: This project was inspired by a creative idea and practical requirements from my friend, **KingLo**, aimed at optimizing everyday digital and simulation workflows.
+* **Inspiration**: This project was inspired by a practical requirement from my friend, **KingLo**, aimed at optimizing everyday digital and simulation workflows.
