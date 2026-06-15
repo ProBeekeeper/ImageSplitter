@@ -1,0 +1,16 @@
+{
+  "Title": "Bildgitter-Splitter",
+  "BtnSelect": "Bilder auswählen",
+  "BtnExecute": "Aufteilung starten",
+  "Rows": "Zeilen (Horizontale Aufteilung):",
+  "Cols": "Spalten (Vertikale Aufteilung):",
+  "OfdTitle": "Bilder auswählen (Mehrfachauswahl unterstützt)",
+  "Filter": "Bilddateien|*.png;*.jpg;*.jpeg;*.bmp;*.webp",
+  "LogLoaded": "[System] {0} Bilder erfolgreich geladen. Konfigurieren Sie das Gitter und klicken Sie auf 'Aufteilung starten', um den Vorgang auszuführen.",
+  "LogSuccess": "[Erfolg] Archiviert unter: {0}",
+  "LogError": "[Fehler] Datei {0} fehlgeschlagen. Grund: {1}",
+  "LogAllDone": "[System] Alle Aufgaben abgeschlossen.",
+  "MsgSuccess": "Alle Bilder wurden erfolgreich aufgeteilt und archiviert!",
+  "MsgTitle": "Erfolg",
+  "PreviewLabel": "Vorschau der Bildaufteilung:"
+}

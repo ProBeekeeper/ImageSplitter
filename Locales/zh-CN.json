@@ -1,0 +1,16 @@
+{
+  "Title": "图片矩阵切割工具",
+  "BtnSelect": "选择图片",
+  "BtnExecute": "开始切割",
+  "Rows": "切割行数 (横切):",
+  "Cols": "切割列数 (纵切):",
+  "OfdTitle": "请选择图片（支持多选）",
+  "Filter": "图片文件|*.png;*.jpg;*.jpeg;*.bmp;*.webp",
+  "LogLoaded": "[系统] 成功载入 {0} 张图片。请设置网格并点击「开始切割」以执行任务。",
+  "LogSuccess": "[成功] 文件已归档至: {0}",
+  "LogError": "[错误] 文件 {0} 处理失败。原因: {1}",
+  "LogAllDone": "[系统] 所有任务执行完毕。",
+  "MsgSuccess": "所有图片已成功切割并完成归档！",
+  "MsgTitle": "成功",
+  "PreviewLabel": "图片切割位置预览："
+}

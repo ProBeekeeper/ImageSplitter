@@ -1,0 +1,16 @@
+{
+  "Title": "Divisor de Cuadrícula de Imágenes",
+  "BtnSelect": "Seleccionar Imágenes",
+  "BtnExecute": "Iniciar División",
+  "Rows": "Filas (División horizontal):",
+  "Cols": "Columnas (División vertical):",
+  "OfdTitle": "Seleccionar Imágenes (Soporta Selección Múltiple)",
+  "Filter": "Archivos de Imagen|*.png;*.jpg;*.jpeg;*.bmp;*.webp",
+  "LogLoaded": "[Sistema] {0} imágenes cargadas con éxito. Configure la cuadrícula y haga clic en 'Iniciar División' para ejecutar.",
+  "LogSuccess": "[Éxito] Archivo guardado en: {0}",
+  "LogError": "[Error] Error en el archivo {0}. Razón: {1}",
+  "LogAllDone": "[Sistema] Todas las tareas completadas.",
+  "MsgSuccess": "¡Todas las imágenes se 하n dividido y archivado correctamente!",
+  "MsgTitle": "Éxito",
+  "PreviewLabel": "Vista Previa de División de Imagen:"
+}

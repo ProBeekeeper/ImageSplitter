@@ -1,0 +1,16 @@
+{
+  "Title": "Image Grid Splitter",
+  "BtnSelect": "Select Images",
+  "BtnExecute": "Start Splitting",
+  "Rows": "Rows (Horizontal split):",
+  "Cols": "Columns (Vertical split):",
+  "OfdTitle": "Select Images (Multi-select Supported)",
+  "Filter": "Image Files|*.png;*.jpg;*.jpeg;*.bmp;*.webp",
+  "LogLoaded": "[System] Loaded {0} images successfully. Configure grid and click 'Start Splitting' to execute.",
+  "LogSuccess": "[Success] Filed to: {0}",
+  "LogError": "[Error] File {0} failed. Reason: {1}",
+  "LogAllDone": "[System] All tasks completed.",
+  "MsgSuccess": "All images have been split and archived successfully!",
+  "MsgTitle": "Success",
+  "PreviewLabel": "Image Split Preview:"
+}

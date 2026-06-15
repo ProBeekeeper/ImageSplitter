@@ -1,0 +1,16 @@
+{
+  "Title": "Diviseur de Grille d'Images",
+  "BtnSelect": "Sélectionner des Images",
+  "BtnExecute": "Lancer le Découpage",
+  "Rows": "Lignes (Découpage horizontal) :",
+  "Cols": "Colonnes (Découpage vertical) :",
+  "OfdTitle": "Sélectionner des Images (Sélection Multiple Supportée)",
+  "Filter": "Fichiers Image|*.png;*.jpg;*.jpeg;*.bmp;*.webp",
+  "LogLoaded": "[Système] {0} images chargées avec succès. Configurez la grille et cliquez sur 'Lancer le Découpage' pour exécuter.",
+  "LogSuccess": "[Succès] Archivé dans : {0}",
+  "LogError": "[Erreur] Le fichier {0} a échoué. Raison : {1}",
+  "LogAllDone": "[Système] Toutes les tâches sont terminées.",
+  "MsgSuccess": "Toutes les images ont été découpées et archivées avec succès !",
+  "MsgTitle": "Succès",
+  "PreviewLabel": "Aperçu du Découpage de l'Image :"
+}
