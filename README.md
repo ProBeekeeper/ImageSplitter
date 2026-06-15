@@ -1,4 +1,4 @@
-# ImageGridSplitter
+# ImageSplitter
 
 A clean, minimalist, and high-performance desktop utility built with .NET 10 Windows Forms, designed to partition images into precise matrix grids with zero quality loss.
 
