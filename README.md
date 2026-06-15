@@ -46,3 +46,11 @@ Click **"Start Splitting"** to initiate the slicing pipeline:
 ## Acknowledgments
 
 * **Inspiration**: This project was inspired by a practical requirement from my friend, **KingLo**, aimed at optimizing everyday digital and simulation workflows.
+
+---
+
+## Security & SmartScreen Notice
+
+Because this is an open-source tool distributed without a costly commercial Code Signing Certificate, Windows SmartScreen may trigger a "Windows protected your PC" warning upon the first launch. 
+
+**This is normal behavior for unsigned open-source binaries.** You can safely bypass this by clicking **"More info"** and then selecting **"Run anyway"**. Since the entire source code is fully transparent and hosted publicly here, you can audit the repository at any time.
